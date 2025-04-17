@@ -1,0 +1,13 @@
+# Ignora pastas de cache Python
+__pycache__/
+*.py[cod]
+
+# Ignora IDEs
+.vscode/
+.idea/
+
+# Arquivos de log
+*.log
+
+# Arquivos que você quiser deixar fora
+primeiro_programa.py
